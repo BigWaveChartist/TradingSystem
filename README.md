@@ -1,0 +1,2 @@
+# TradingSystem
+Trading System Description
